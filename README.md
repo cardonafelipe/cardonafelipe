@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## A product designer in it's mission to learning code
+Hey, I'm Felipe, a product designer learning about development and code, to be able to create my own apps.
 <!--
 **cardonafelipe/cardonafelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
